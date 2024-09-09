@@ -8,9 +8,9 @@ Ce site a été développé en étroite collaboration afin de garantir la charte
 ### Comment installer le projet
 
 ```
-git clone https://github.com/stephanieEt/Projet4.git
+git clone https://wilbert-kevin.github.io/
 ```
 
 ### Voir le projet
 
-[Projet 4](https://stephanieet.github.io/Projet4/)
+[Projet 4](https://wilbert-kevin.github.io/Am-liorez-l-interface-d-un-site-mobile-avec-des-animations-CSS/)
