@@ -8,7 +8,7 @@ Ce site a été développé en étroite collaboration afin de garantir la charte
 ### Comment installer le projet
 
 ```
-git clone https://wilbert-kevin.github.io/
+git clone (https://github.com/Wilbert-kevin/Am-liorez-l-interface-d-un-site-mobile-avec-des-animations-CSS.git)
 ```
 
 ### Voir le projet
