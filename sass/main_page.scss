@@ -266,8 +266,6 @@ body {
   }
 }
 
-
-
 @media screen and (min-width: 768px) {
   body {
     header {
@@ -327,26 +325,21 @@ body {
         height: 205px;
         align-items: normal;
         padding: 0px 8vw;
-
         .container__title {
           margin-right: 0px;
           margin-left: 0px;
         }
-
         .container__content {
           flex-direction: row;
           justify-content: center;
           gap: 2vw;
-
           .container__content__card {
-
             .container__content__card__text {
               width: 26vw;
             }
           }
         }
       }
-
       .restaurants {
         gap: 28px;
         padding: 0px 8vw;

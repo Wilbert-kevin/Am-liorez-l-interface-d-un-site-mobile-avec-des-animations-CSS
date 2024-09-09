@@ -8,6 +8,11 @@
 h3 {
   font-size: 18px;
   font-weight: 500;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  max-width: 65vw;
+  transition: max-width 1s ease-in-out;
 }
 
 p {
@@ -91,6 +96,10 @@ body main .menu .menu__list .menu__list__card:hover .menu__list__card__price {
   transform: translateX(-60px);
 }
 
+body main .menu .menu__list .menu__list__card:hover .menu__list__card__text p, body main .menu .menu__list .menu__list__card:hover .menu__list__card__text h3 {
+  max-width: 50vw;
+}
+
 body main .menu .menu__list .menu__list__card .menu__list__card__text {
   display: flex;
   flex-direction: column;
@@ -102,6 +111,7 @@ body main .menu .menu__list .menu__list__card .menu__list__card__text p {
   text-overflow: ellipsis;
   white-space: nowrap;
   max-width: 65vw;
+  transition: max-width 1s ease-in-out;
 }
 
 body main .menu .menu__list .menu__list__card .menu__list__card__price {
